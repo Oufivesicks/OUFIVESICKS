@@ -2,7 +2,9 @@
 <head google758f903dddca4cbf.html>
 <title>OUFIVESICKS</title>
   <style>
-  body { background-color:#dafbe1}
+  body {
+    background-color: #f0f0f0; /* #dafbe1 */
+  }
 </style>
 </head>
 
