@@ -1,6 +1,9 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html>
 <title>OUFIVESICKS</title>
+  <style>
+  body { background-color:#dafbe1}
+</style>
 </head>
 
 
