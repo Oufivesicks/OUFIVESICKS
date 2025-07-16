@@ -13,4 +13,4 @@
 <p><center><img src="Oufivesicks1.jpg" height="300" width="300"></center></p>
 
 <p>OUFIVESICKS..... a local brand that promotes culture, diversity and fashion that exists in the very heart of MAOKENG, exposing the beauty within it</p>
-<p>Best known for our exclusive 5 panels.....<img src="Oufivesicks8.jpg" height="50" width="50"></p>
+<p><font face="Eras Demi ITC" size="6">Best known for our exclusive 5 panels.....<img src="Oufivesicks8.jpg" height="100" width="100"></p>
