@@ -1,11 +1,6 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html>
 <title>OUFIVESICKS</title>
-  <style>
-  body {
-    background-color: #f0f0f0; /* #dafbe1 */
-  }
-</style>
 </head>
 
 
@@ -13,7 +8,7 @@
 <br/>
 <Hr/>
 
-<body bgcolor="#dafbe1">
+<body background-color="#dafbe1">
 <p><center><font face="Castellar" size="5">Created straight outta <b><i>Kroonstad-Mozolo-Maokeng</i></b> to the streets that rock fashion! Introducing OUFIVESICKS!!!!!!!!!</font></center></p>
 <p><center><img src="Oufivesicks1.jpg" height="300" width="300"></center></p>
 
