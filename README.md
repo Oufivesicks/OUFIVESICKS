@@ -1,7 +1,6 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html >
 <title>OUFIVESICKS</title>
-  <link rel="icon" href="/Oufivesicks.ico" type="image/x-icon">
 </head>
 
 <hr color="#a5cb75"/>
