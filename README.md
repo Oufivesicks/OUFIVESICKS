@@ -14,9 +14,10 @@
 <p><center><img src="Oufivesicks1.jpg" height="300" width="300"></center></p>
 
 <p>OUFIVESICKS..... a local brand that promotes culture, diversity and fashion that exists in the very heart of MAOKENG, exposing the beauty within it</p>
-<p><font face="Comic Sans MS" size="5">Best known for our exclusive 5 panels.....<img src="Oufivesicks8.jpg" height="200" width="200"></font></p>
-<p><font face="Comic Sans MS" size="5">.....For all the <b><i>HOMIES</i></b>.....<img src="Oufivesicks5.jpg" height="200" width="200"></font></p>
-<p><font face="Comic Sans MS" size="5">.....The <b><i>BADDIES</i></b>.....<img src="Oufivesicks6.jpg" height="200" width="200"></font></p>
-<p><font face="Comic Sans MS" size="5">.....Not forgetting the <b><i>CULTURE</i></b>.....<img src="Oufivesicks7.jpg" height="200" width="200"></font></p>
-<p><font face="Comic Sans MS" size="5">.....And the <b><i>FASHION</i></b> !!!!!<img src="Oufivesicks9.jpg" height="200" width="200"></font></p>
+<p><font face="Comic Sans MS" size="5">Best known for our exclusive 5 panels.....</font></p>
+<p><img src="Oufivesicks8.jpg" height="200" width="200">
+<img src="Oufivesicks5.jpg" height="200" width="200">
+<img src="Oufivesicks6.jpg" height="200" width="200">
+<img src="Oufivesicks7.jpg" height="200" width="200">
+<img src="Oufivesicks9.jpg" height="200" width="200"></p>
 <br/>
