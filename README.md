@@ -9,7 +9,7 @@
 <hr color="orange"/>
 <br/>
 
-<body bgcolor="#FA8E00">
+<body bgcolor="blue">
 <p><center><font face="Castellar" size="5">Created straight outta <b><i>Kroonstad-Mozolo-Maokeng</i></b> to the streets that rock fashion! Introducing OUFIVESICKS!!!!!!!!!</font></center></p>
 <p><center><img src="Oufivesicks1.jpg" height="300" width="300"></center></p>
 
