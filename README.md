@@ -4,9 +4,9 @@
 <title>OUFIVESICKS</title>
 </head>
 
-<hr color="#a5cb75"/>
+<hr color="#FA8E00"/>
 <p><center><img src="Oufivesicks.jpg" height="50" width="50"><font face="Algerian" size="150">OUFIVESICKS</font><img src="Oufivesicks.jpg" height="50" width="50"></center></p>
-<hr color="#a5cb75"/>
+<hr color="#FA8E00"/>
 <br/>
 
 <body bgcolor="#FA8E00">
