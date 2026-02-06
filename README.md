@@ -23,3 +23,5 @@
 <br/>
 <p><font face="Comic Sans MS" size="5">And Skullies(skull-cap)</font></p>
 <img src="Oufivesicks skullcap.jpg" height="200" width="200">
+
+</body>
