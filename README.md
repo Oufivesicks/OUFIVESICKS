@@ -15,11 +15,11 @@
 
 <p>OUFIVESICKS..... a local brand that promotes culture, diversity and fashion that exists in the very heart of MAOKENG, exposing the beauty within it</p>
 <p><font face="Comic Sans MS" size="5">Best known for our exclusive 5-Panels.....</font></p>
-<p><img src="Oufivesicks8.jpg" height="200" width="200">
+<p><center><img src="Oufivesicks8.jpg" height="200" width="200">
 <img src="Oufivesicks5.jpg" height="200" width="200">
 <img src="Oufivesicks6.jpg" height="200" width="200">
 <img src="Oufivesicks7.jpg" height="200" width="200">
-<img src="Oufivesicks9.jpg" height="200" width="200"></p>
+<img src="Oufivesicks9.jpg" height="200" width="200"></center></p>
 <br/>
 <p><font face="Comic Sans MS" size="5">And Skullies(skull-cap)</font></p>
 <img src="Oufivesicks skullcap.jpg" height="200" width="200">
