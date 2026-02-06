@@ -21,7 +21,7 @@
 <img src="Oufivesicks7.jpg" height="200" width="200">
 <img src="Oufivesicks9.jpg" height="200" width="200"></center></p>
 <br/>
-<p><font face="Comic Sans MS" size="5">And Skullies(skull-cap)</font></p>
+<p><font face="Comic Sans MS" size="5">And although we have the dopest 5-panels in the kasi we also have the coolest Skullies(skull-cap) to rock fashion with</font></p>
 <img src="Oufivesicks skullcap.jpg" height="200" width="200">
 
 </body>
