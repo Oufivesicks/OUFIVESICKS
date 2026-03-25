@@ -5,7 +5,7 @@
 </head>
 
 <hr color="orange"/>
-<p><center><img src="Oufivesicks.jpg" height="50" width="50"><font face="Algerian" size="150"><a href="https://www.instagram.com/oufivesicks/">OUFIVESICKS</a></font><img src="Oufivesicks.jpg" height="50" width="50"></center></p>
+<p><a href="https://www.instagram.com/oufivesicks/"><center><img src="Oufivesicks.jpg" height="50" width="50"><font face="Algerian" size="150">OUFIVESICKS</font><img src="Oufivesicks.jpg" height="50" width="50"></center></a></p>
 <hr color="orange"/>
 <br/>
 
