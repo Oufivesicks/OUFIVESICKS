@@ -1,7 +1,7 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html >
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<title>OUFIVESICKS</title>
+<title><a href="https://www.instagram.com/oufivesicks/">OUFIVESICKS</a></title>
 </head>
 
 <hr color="orange"/>
