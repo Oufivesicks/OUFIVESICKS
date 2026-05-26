@@ -1,7 +1,6 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html >
 <link rel="icon" type="image" href="favicon.jpg"/>
-<title>OUFIVESICKS</title>
 </head>
 
 <hr color="orange"/>
