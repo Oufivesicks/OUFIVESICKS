@@ -1,6 +1,6 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html >
-<link rel="icon" href="Oufivesicks.jpg"/>
+<link rel="icon" type="image/jpg" href="Oufivesicks.jpg"/>
 <title>OUFIVESICKS</title>
 </head>
 
