@@ -1,6 +1,6 @@
 # OUFIVESICKS
 <head google758f903dddca4cbf.html >
-<link rel="icon" type="image/gif" href="favicon.gif"/>
+<link rel="icon" type="image/gif" href="/blob/main/favicon.gif"/>
 <title>OUFIVESICKS</title>
 </head>
 
