@@ -9,7 +9,7 @@
 <hr color="orange"/>
 <br/>
 
-<body bgcolor="blue">
+<body ><bgcolor="blue">
 <p><center><font face="Castellar" size="5">From <b><i>Kroonstad-Mozolo-Maokeng</i></b> to the streets that rock fashion
 <br/>
 !!!!!Introducing OUFIVESICKS!!!!!</font></center></p>
